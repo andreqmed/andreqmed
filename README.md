@@ -1,10 +1,3 @@
-[🇧🇷 Português](#português) | [🇺🇸 English](#english)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreqmed)](https://github.com/andreqmed/github-readme-stats)
-
-
-# Português
----
 
 # Oi, eu sou André Queiroz Medeiros 👋
 ## 👋 Sobre mim
